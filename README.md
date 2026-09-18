@@ -7,13 +7,13 @@ to Machine Learning and Generative AI.
 
 | Area | Progress | Status |
 |---|---:|---|
-| Python | 3/?? | 🟢 |
-| NumPy | 0/?? | ⚪ |
-| Pandas | 0/?? | ⚪ |
-| SQL | 0/?? | ⚪ |
-| Statistics | 0/?? | ⚪ |
-| Machine Learning | 0/?? | ⚪ |
-| GenAI | 0/?? | ⚪ |
+| Python | 5/8 | 🟢 |
+| NumPy | 0/3 | ⚪ |
+| Pandas | 0/8 | ⚪ |
+| SQL | 0/6 | ⚪ |
+| Statistics | 0/10 | ⚪ |
+| Machine Learning | 0/13 | ⚪ |
+| GenAI | 0/12 | ⚪ |
 
 ## Methodology
 
