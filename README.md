@@ -8,7 +8,7 @@ to Machine Learning and Generative AI.
 | Area | Progress | Status |
 |---|---:|---|
 | Python | 5/5 | 🟢 |
-| NumPy | 2/3 | 🟡 |
+| NumPy | 3/3 | 🟡 |
 | Pandas | 0/5 | ⚪ |
 | SQL | 0/6 | ⚪ |
 | Statistics | 0/8 | ⚪ |
@@ -27,6 +27,7 @@ to Machine Learning and Generative AI.
 ### NumPy
 - Assignment 6 — NumPy Customer Churn Numerical Analyzer
 - Assignment 7 — NumPy Customer Churn Analysis & Performance
+- Assignment 8 — NumPy Retail Sales Intelligence Engine
 
 ## Methodology
 
